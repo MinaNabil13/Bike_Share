@@ -1,1 +1,1 @@
-# Bike_Share
+# Bike_Share this project focused on analyzing data related to bike share in three USA cities (Chicago, washintegon, and New York city) and address specific questions helping you to explore this dataset
